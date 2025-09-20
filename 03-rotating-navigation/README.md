@@ -4,6 +4,7 @@ A navigation menu that appears with a rotating animation when you click the togg
 
 ## Screenshot
 ![Rotating Navigation Screenshot](screenshot.png)
+
 ![Rotating Navigation Screenshot](screenshot2.png)
 
 ## What I Learned
@@ -12,4 +13,4 @@ A navigation menu that appears with a rotating animation when you click the togg
 - Toggling classes in JavaScript to trigger the rotation effect.
 
 ## Live Demo
-[View on GitHub Pages](https://augusta08.github.io/50-projects-50-days/)
+[View on GitHub Pages](https://augusta08.github.io/50-projects-50-days/03-rotating-navigation)
