@@ -6,6 +6,7 @@ A search input that expands smoothly when the search button is clicked. The inpu
 
 ![Hidden Search Widget Screenshot](screenshot1.png)
 
+After clicking the search button, the input expands.
 ![Hidden Search Widget Screenshot](screenshot2.png)
 
 ## What I Learned
