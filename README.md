@@ -9,6 +9,8 @@ The goal is to sharpen my frontend development skills by building something new 
 
 1. [Expanding Cards](./01-expanding-cards)
 2. [Progress Steps](./02-progress-steps)
+3. [Rotating Navigation](./03-rotating-navigation)
+4. [Hidden Search Widget](./04-hidden-search-widget)
 
 _(More projects will be added as I continue the challenge.)_
 
