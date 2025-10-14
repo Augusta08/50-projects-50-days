@@ -10,7 +10,7 @@ A progress tracker UI that highlights steps as you move forward or backward with
 
 ---
 
-## What I Learned
+## What I Practiced
 
 - Manipulating multiple elements with **querySelectorAll**.
 - Dynamically adding/removing CSS classes with JavaScript.

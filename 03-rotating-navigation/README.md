@@ -7,7 +7,7 @@ A navigation menu that appears with a rotating animation when you click the togg
 
 ![Rotating Navigation Screenshot](screenshot2.png)
 
-## What I Learned
+## What I Practiced
 - Structuring HTML elements properly for layout.
 - Using CSS `transform` and `transition` for smooth animations.
 - Toggling classes in JavaScript to trigger the rotation effect.

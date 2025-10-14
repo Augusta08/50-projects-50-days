@@ -10,7 +10,7 @@ A simple interactive UI component where clicking on a card expands it to show mo
 
 ---
 
-## What I Learned
+## What I Practiced
 
 - How to use **flexbox** and the `flex-grow` property to create expandable elements.
 - Adding/removing classes dynamically with **JavaScript**.

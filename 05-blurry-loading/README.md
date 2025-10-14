@@ -16,7 +16,7 @@ At 100%, the background is fully clear
 
 ![Blurry Loading Screenshot at 100%](images/screenshot4.png)
 
-## What I Learned
+## What I Practiced
 
 - Using setInterval() in JavaScript to control timing and animation updates.
 - Dynamically changing CSS styles (blur and opacity) through JavaScript.

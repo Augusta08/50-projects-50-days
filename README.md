@@ -11,6 +11,9 @@ The goal is to sharpen my frontend development skills by building something new 
 2. [Progress Steps](./02-progress-steps)
 3. [Rotating Navigation](./03-rotating-navigation)
 4. [Hidden Search Widget](./04-hidden-search-widget)
+5. [Hidden Search Widget](./05-blurry-loading)
+6. [Hidden Search Widget](./06-scroll-animation)
+6. [Scroll Animation](./07-split-landing-page)
 
 _(More projects will be added as I continue the challenge.)_
 

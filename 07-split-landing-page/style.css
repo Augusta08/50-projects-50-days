@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+
+.page {
+    height: 100vh;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transition: all 1s ease-in-out;
+    
+}
+
+#playstation {
+    background: linear-gradient(rgba(87, 84, 236, 0.7), rgba(87, 84, 236, 0.7)), url('images/playstation-logo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#xbox {
+    background: linear-gradient(rgba(43, 43, 43, 0.8), rgba(43, 43, 43, 0.8)), url('images/XBox\ Series\ X.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.page.active {
+    flex: 3;
+}
+
+h1 {
+    color: white;
+    font-size: 64px;
+}
+
+button {
+    background-color: transparent;
+    width: 240px;
+    padding: 15px;
+    border: 1px solid white;
+    color: white;
+    cursor: pointer;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+#playstation button:hover,
+#playstation button:active {
+    background-color: #5754ec;
+}
+
+#xbox button:hover,
+#xbox button:active {
+    background-color: green;
+}
