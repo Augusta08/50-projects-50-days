@@ -4,10 +4,10 @@ A search input that expands smoothly when the search button is clicked. The inpu
 
 ## Screenshot
 
-![Hidden Search Widget Screenshot](screenshot1.png)
+![Hidden Search Widget Screenshot](images/screenshot1.png)
 
 After clicking the search button, the input expands.
-![Hidden Search Widget Screenshot](screenshot2.png)
+![Hidden Search Widget Screenshot](images/screenshot2.png)
 
 ## What I Practiced
 

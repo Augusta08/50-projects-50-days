@@ -1,72 +1,72 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
-    font-family: "Roboto", sans-serif;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    overflow: hidden;
-    margin: 0;
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
 }
 
 .cards {
-    display: flex;
-    width: 90%;
-    justify-content: space-between;
+  display: flex;
+  width: 90%;
+  justify-content: space-between;
 }
 
 .card {
-    background-size: cover;
-    background-position: center;
-    flex-grow: 0.5;
-    flex-shrink: 0;
-    height: 80vh;
-    border-radius: 50px;
-    position: relative;
-    margin: 0 10px;
-    cursor: pointer;
-    transition: flex 0.7s ease-in;
+  background-size: cover;
+  background-position: center;
+  flex-grow: 0.5;
+  flex-shrink: 0;
+  height: 80vh;
+  border-radius: 50px;
+  position: relative;
+  margin: 0 10px;
+  cursor: pointer;
+  transition: flex 0.7s ease-in;
 }
 
 .card-1 {
-    background-image: url("image\ 1.jpg");
+  background-image: url('images/image\ 1.jpg');
 }
 
 .card-2 {
-    background-image: url("image\ 2.jpg");
+  background-image: url('images/image\ 2.jpg');
 }
 
 .card-3 {
-    background-image: url("image\ 3.jpg");
+  background-image: url('images/image\ 3.jpg');
 }
 
 .card-4 {
-    background-image: url("image\ 4.jpg");
+  background-image: url('images/image\ 4.jpg');
 }
 
 .card-5 {
-    background-image: url("image\ 5.jpg");
+  background-image: url('images/image\ 5.jpg');
 }
 
 p {
-    position: absolute;
-    bottom: 8px;
-    left: 25px;
-    color: white;
-    font-size: 24px;
-    opacity: 0;
-    transition: opacity 0.3s ease-in 0.4s;
+  position: absolute;
+  bottom: 8px;
+  left: 25px;
+  color: white;
+  font-size: 24px;
+  opacity: 0;
+  transition: opacity 0.3s ease-in 0.4s;
 }
 
 .card.active {
-    flex-grow: 5;
+  flex-grow: 5;
 }
 
 .active p {
-    opacity: 1;
+  opacity: 1;
 }

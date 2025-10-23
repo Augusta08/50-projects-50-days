@@ -6,7 +6,7 @@ A progress tracker UI that highlights steps as you move forward or backward with
 
 ## Screenshot
 
-![Progress Steps Screenshot](screenshot.png)
+![Progress Steps Screenshot](images/screenshot.png)
 
 ---
 

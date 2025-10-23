@@ -15,6 +15,7 @@ The goal is to sharpen my frontend development skills by building something new 
 6. [Scroll Animation](./06-scroll-animation)
 7. [Split Landing Page](./07-split-landing-page)
 8. [Form Wave Animation](./08-form-wave-animation)
+9. [Sound Board](./09-sound-board/)
 
 _(More projects will be added as I continue the challenge.)_
 

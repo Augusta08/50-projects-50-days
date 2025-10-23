@@ -16,9 +16,9 @@ function blurring() {
   console.log(load);
   loadText.innerText = `${load}%`;
 
-  opacityValue = 1 - (load / 100);
-  blurValue = 30 - (0.3 * load);
-  
+  opacityValue = 1 - load / 100;
+  blurValue = 30 - 0.3 * load;
+
   loadText.style.opacity = `${opacityValue}`;
   bg.style.filter = `blur(${blurValue}px)`;
 }

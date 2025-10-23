@@ -6,7 +6,7 @@ A simple interactive UI component where clicking on a card expands it to show mo
 
 ## Screenshot
 
-![Expanding Cards Screenshot](screenshot.png)
+![Expanding Cards Screenshot](images/screenshot.png)
 
 ---
 
